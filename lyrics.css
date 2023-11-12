@@ -1,0 +1,43 @@
+header{
+    background-color: slategray;
+}
+body{
+    background-color: slategray;
+}
+#song_title{
+    color: Black;
+}
+#pre1{
+    color: bisque;
+}
+#pre2{
+    color: beige;
+}
+#pre3{
+    color: blueviolet;
+}
+#pre4{
+    color: aqua;
+
+}
+#pre5{
+    color: rgb(102,222,255);
+}
+#pre6{
+    color: rgb(41,41,41);
+}
+#pre7{
+    color: #59ff5f;
+}
+#pre8{
+    color: rgba(202, 3, 209, 0.651);
+}
+#hed{
+    font-family: Verdana, arial, Tahoma, sans-serif;
+}
+#h1{
+    font-style: arial;
+    font-size: 16px;
+    font-weight: bold;
+    b 
+}
